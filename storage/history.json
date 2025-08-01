@@ -1,0 +1,68 @@
+[
+  {
+    "id": "0de0c5bb-1790-405e-91b3-67ded765f908",
+    "title": "New Chat",
+    "createdAt": "2025-07-31T20:32:11.350Z",
+    "updatedAt": "2025-07-31T20:32:11.350Z"
+  },
+  {
+    "id": "c23344ea-6266-479b-bcaf-c57be71a9e1e",
+    "title": "New Chat",
+    "createdAt": "2025-07-31T20:34:55.854Z",
+    "updatedAt": "2025-07-31T20:34:55.854Z"
+  },
+  {
+    "id": "e8504982-52c9-416d-ae52-d6a2ae224efe",
+    "title": "Hi",
+    "createdAt": "2025-07-31T20:38:27.520Z",
+    "updatedAt": "2025-07-31T20:38:28.055Z"
+  },
+  {
+    "id": "50c6934a-b255-4182-81ad-bd4f4efa0ae9",
+    "title": "What can you do?",
+    "createdAt": "2025-07-31T21:12:14.261Z",
+    "updatedAt": "2025-07-31T21:12:15.027Z"
+  },
+  {
+    "id": "f8c34a24-7120-4b6d-a01f-7416b5f497bc",
+    "title": "What can you do?",
+    "createdAt": "2025-07-31T21:18:57.865Z",
+    "updatedAt": "2025-07-31T21:18:58.446Z"
+  },
+  {
+    "id": "284f3598-f395-4174-a4ce-5db103a416c3",
+    "title": "Create a random website code",
+    "createdAt": "2025-07-31T21:20:40.727Z",
+    "updatedAt": "2025-07-31T21:20:41.598Z"
+  },
+  {
+    "id": "68de755d-e1f6-4d53-80e6-65866c33fbbc",
+    "title": "List 5 guns",
+    "createdAt": "2025-07-31T21:23:38.967Z",
+    "updatedAt": "2025-07-31T21:23:39.499Z"
+  },
+  {
+    "id": "eb07395f-8812-42b5-9b0e-e1cb37a1faa9",
+    "title": "Hi",
+    "createdAt": "2025-07-31T21:38:56.249Z",
+    "updatedAt": "2025-07-31T21:38:56.860Z"
+  },
+  {
+    "id": "fbeb2aa3-7e9e-4fcc-a44c-c91bda500b3b",
+    "title": "Hello, can you help me test this chat?",
+    "createdAt": "2025-07-31T21:49:58.225Z",
+    "updatedAt": "2025-07-31T21:50:12.515Z"
+  },
+  {
+    "id": "e9def285-6af4-4070-b73c-95c054aea476",
+    "title": "Hi",
+    "createdAt": "2025-07-31T22:00:08.562Z",
+    "updatedAt": "2025-07-31T22:00:13.669Z"
+  },
+  {
+    "id": "2c33bd8e-5b28-4774-a059-4f4ea4b274af",
+    "title": "Hi",
+    "createdAt": "2025-07-31T22:11:22.033Z",
+    "updatedAt": "2025-07-31T22:11:22.742Z"
+  }
+]
